@@ -4,7 +4,7 @@
 Este repositório é um ``mapa(índice)`` para todos os meus projetos,
 pesquisas, estudos, experimentos e conhecimento (basicamente qualquer coisa). A proposta é trazer organização e facilidade de acesso para todos os projetos no repositório.
 
-### ✨Motivação ([bla bla bla...pula isso ⬇](#conteúdo) )
+### ✨Motivação ([bla bla bla...pula isso ⬇](#-conteúdo-) )
 Ideias e pensamentos vem e vão em uma velocidade tão alta no dia a dia que as vezes ficamos grandes períodos de mente vazia simplesmente seguindo a rotina, não existe uma retensão, é um "oi" e logo em seguida "vou descer no proximo ponto" para quem sabe nunca mais um segundo encontro. Meio dramático mas essa é a essência da coisa.
 
 Então, decidi encontrar alguma maneira de registrar esses encontros para possivelmente desenvolver esses "oi"s que ocorrem ocasionalmente na minha vida. 

@@ -19,6 +19,10 @@ Então lembrei que já uso bastante o Github no meu dia a dia e aqui estou. Na p
 
 ### 🤔 Oque eu encontro por aqui ?
 
+><s> **"Este Hub não é apenas uma coleção de códigos. É o registro contínuo </s>
+><s> de uma jornada de aprendizado, disciplina e construção de </s>
+><s> conhecimento."**</s> - texto bonito do GPD 🤖 
+
 Literalmente qualquer coisa que ficar matutando na minha cabeça e eu decidir dar continuidade. Temas aleatórios que podem envolver várias áreas de estudo ou até nenhuma.
 
 Na real, em grande parte, vai ser uma exploração temática considerando valores (os meus obviamente), questionamentos e bastante "brainstorm" - não faltando também dados reais da ciência moderna para não virar uma obra de ficção científica (se bem que podia virar uma também).
@@ -42,56 +46,50 @@ P: A vá ! Então isso é um Blog no Github ?
 R: Sei lá, so tó fazendo o que deu na telha 😛. 
 
 
-## <h1 align="center">Conteúdo</h1>
+# <h1 align="center">⚜ Conteúdo ⚜</h1>
 
-Em construção ainda, modelo de IA abaixo 
+Pode ser que a tabela esteja grande (espero eu), o comando de pesquisa do navegador (`Ctrl + f`) pode ajudar 👍.  
 
-------------------------------------------------------------------------
+| # | Área | Tema | Tipo | link repositório |
+|---|---|---|---|---|
+|Exemplo|Exemplo|Exemplo|Exemplo|
+|Exemplo|Exemplo|Exemplo|Exemplo|
+|Exemplo|Exemplo|Exemplo|Exemplo|
+|Exemplo|Exemplo|Exemplo|Exemplo|
+|Exemplo|Exemplo|Exemplo|Exemplo|
+|Exemplo|Exemplo|Exemplo|Exemplo|
+|Exemplo|Exemplo|Exemplo|Exemplo|
+|Exemplo|Exemplo|Exemplo|Exemplo|
+|Exemplo|Exemplo|Exemplo|Exemplo|
+|Exemplo|Exemplo|Exemplo|Exemplo|
+|Exemplo|Exemplo|Exemplo|Exemplo|
+|Exemplo|Exemplo|Exemplo|Exemplo|
 
-# ⭐ Projetos em Destaque
+---
 
-  Projeto             Descrição                                Status
-  ------------------- ---------------------------------------- --------
-  *(Em construção)*   Os primeiros projetos aparecerão aqui.   🚧
+### 💡 Possíveis ideias  
+Deixar anotado é sempre bom:
+-   Estruturar os primeiros repositórios
+-   Publicar documentação dos projetos
+-   Criar GitHub Pages
+-   Publicar artigos técnicos
+-   Expandir a biblioteca de conhecimento
 
-------------------------------------------------------------------------
+---
 
-# 🗺️ Roadmap
+### 🤝 Contribuição
 
--   [ ] Estruturar os primeiros repositórios
--   [ ] Publicar documentação dos projetos
--   [ ] Criar GitHub Pages
--   [ ] Publicar artigos técnicos
--   [ ] Expandir a biblioteca de conhecimento
+Embora este seja um projeto majoritariamente pessoal, sugestões, discussões e feedback
+são sempre bem-vindos. Só não vamos exagerar também né...
 
-------------------------------------------------------------------------
+---
 
-# 📈 Status
+### 📜 Licença
 
-  Categoria                    Situação
-  ---------------------------- ----------
-  Projetos ativos              🚧
-  Estudos                      📚
-  Experimentos                 🧪
-  Conhecimento compartilhado   🌱
+<s>Os projetos podem possuir licenças específicas. Consulte cada
+repositório para mais detalhes.</s> 🤖
 
-------------------------------------------------------------------------
-
-# 🤝 Contribuição
-
-Embora este seja um projeto pessoal, sugestões, discussões e feedback
-são sempre bem-vindos.
-
-------------------------------------------------------------------------
-
-# 📜 Licença
-
-Os projetos podem possuir licenças específicas. Consulte cada
-repositório para mais detalhes.
-
-------------------------------------------------------------------------
+>THIS IS INTERNET ***** !!! 
 
 
-><s> **"Este Hub não é apenas uma coleção de códigos. É o registro contínuo </s>
-><s> de uma jornada de aprendizado, disciplina e construção de </s>
-><s> conhecimento."**</s> - texto bonito do GPD 🤖 
+
